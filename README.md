@@ -14,7 +14,7 @@ LINGUAGENS:
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"/>
-  <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"/>
+  <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/381/381704.png"/>
  </div>
 
 ___________________________________________________________________________________________________________________________________________________________________
