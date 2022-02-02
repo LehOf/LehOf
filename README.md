@@ -2,7 +2,7 @@
  
 <h3 align="left"> SOBRE MIM: </h3>
 
-- 🛠️ Trabalho atualmente como estagiária na Cogna Educação 
+- 🛠️ Trabalho atualmente como estagiária na COGNA Educação 
 - 🌱 Estudando C# .NET e PL/SQL
 - 🎓 Cursando Ciência da Computação na UNIP - 5/8
 
