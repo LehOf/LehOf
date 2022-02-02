@@ -1,4 +1,4 @@
-### <�h1 align="left">👋 Oiii, me chamo Leila Contel!</h1>
+### <h1 align="left"> Oiii, me chamo Leila Contel! 👋</h1>
  
 SOBRE MIM:
 
@@ -7,15 +7,24 @@ SOBRE MIM:
 - 🎓 Cursando Ciência da Computação na UNIP - 5/8
 
 ___________________________________________________________________________________________________________________________________________________________________
+   
+LINGUAGENS:
+<div>
+  <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
+  <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>
+  <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
+  <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"/>
+  <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"/>
+ </div>
 
-MINHAS LINGUAGENS:
+___________________________________________________________________________________________________________________________________________________________________
 
 <div>
     <a href"https://github.com/LehOf">
     <img width="41%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LehOf&layout=compact&langs_count=16&theme=dracula"/>
 </div>
-    
-___________________________________________________________________________________________________________________________________________________________________
+ 
+__________________________________________________________________________________________________________________________________________________________________
     
 <a target="_blank" href="https://www.linkedin.com/in/leila-contel-3b2974208">
     <img align="left" alt="Leila Contel" width="200px" src="https://img.shields.io/static/v1?label=Linkedin&message=Leila Contel&color=blue&style=social&logo=Linkedin"/>
