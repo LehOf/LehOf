@@ -1,4 +1,4 @@
-### <h1 align="center">Oiii, me chamo Leila Contel! 👋 </h1>
+### <�h1 align="left">👋 Oiii, me chamo Leila Contel!</h1>
  
 SOBRE MIM:
 
