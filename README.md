@@ -1,6 +1,6 @@
 ### <h1 align="left"> Oiii, me chamo Leila Contel! 👋</h1>
  
-SOBRE MIM:
+<h3 align="left"> SOBRE MIM: </h3>
 
 - 🛠️ Trabalho atualmente como estagiária na Cogna Educação 
 - 🌱 Estudando C# .NET e PL/SQL
@@ -8,7 +8,7 @@ SOBRE MIM:
 
 ___________________________________________________________________________________________________________________________________________________________________
    
-LINGUAGENS:
+<h3 align="left"> LINGUAGENS: </h3>
 <div>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>
