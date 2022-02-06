@@ -26,8 +26,8 @@ ________________________________________________________________________________
  
 __________________________________________________________________________________________________________________________________________________________________
     
-<a target="_blank" href="https://www.linkedin.com/in/leila-contel-3b2974208">
-    <img align="left" alt="Leila Contel" width="200px" src="https://img.shields.io/static/v1?label=Linkedin&message=Leila Contel&color=blue&style=social&logo=Linkedin"/>
+<a target="_blank" href="https://www.linkedin.com/in/leila-contel-3b2974208/">
+    <img align="left" alt="Leila Contel" width="200px" src="https://img.shields.io/static/v1?label=linkedin&message=Leila.Contel&color=red&style=social&logo=linkedin"/>
 </a>
    
 <a target="_blank" href="mailto:leeilacontell@gmail.com">
