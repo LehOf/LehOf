@@ -7,9 +7,8 @@
 - 🎓 Cursando Ciência da Computação na UNIP - 5/8
 
 ________________________________________________________________________________________________________________________________________________________________
-<img width="4%"  src="https://cdn-icons.flaticon.com/png/128/1984/premium/1984279.png?token=exp=1647285313~hmac=29cc7441533f91ef1a2af7ad51dde4c6"/>
 <div>
- <h2>Primeiro Projetinho com acompanhamento:</h2>
+ <h2>⚡ Primeiro Projetinho com acompanhamento:⚡</h2>
  <h2>https://dsmovieleila.netlify.app</h2>
 </div>
 
