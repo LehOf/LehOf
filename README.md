@@ -7,7 +7,11 @@
 - 🎓 Cursando Ciência da Computação na UNIP - 5/8
 
 ________________________________________________________________________________________________________________________________________________________________
-<img width="4%"  src="https://icon-icons.com/pt/icone/a-escola-objeto-de-estudo-o-aluno-livro/82096"/><h2>Primeiro Projetinho com acompanhamento:</h2>
+<div>
+ <img width="4%"  src="https://user-images.githubusercontent.com/88163608/158241886-9f99bc0c-e650-44b3-84e2-4d4751bc8283.png"/>
+ <h2>Primeiro Projetinho com acompanhamento:</h2>
+ <h2>https://user-images.githubusercontent.com/88163608/158241886-9f99bc0c-e650-44b3-84e2-4d4751bc8283.png</h2>
+</div>
 _________________________________________________________________________________________________________________________________________________________________
 
 <h3 align="left"> LINGUAGENS: </h3>
