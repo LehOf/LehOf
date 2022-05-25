@@ -3,7 +3,7 @@
 <h3 align="left"> SOBRE MIM: </h3>
 
 - 🛠️ Trabalho atualmente como estagiária na COGNA Educação 
-- 🌱 Estudando C# .NET e PL/SQL
+- 🌱 Estudando C# .NET e PL/SQL & (HTML CSS e JS)
 - 🎓 Cursando Ciência da Computação na UNIP - 5/8
 
 ________________________________________________________________________________________________________________________________________________________________
