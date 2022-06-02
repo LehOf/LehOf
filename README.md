@@ -10,6 +10,7 @@ ________________________________________________________________________________
 <div>
  <h2>⚡ Primeiros Projetinhos com acompanhamento:⚡</h2>
  <h2>https://dsmovieleila.netlify.app</h2>
+ <h2>https://6298ef33c27a0900ac078cd4--aquamarine-cat-393711.netlify.app<h2>
 </div>
 
 <h3 align="left"> LINGUAGENS: </h3>
