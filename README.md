@@ -8,7 +8,7 @@
 
 ________________________________________________________________________________________________________________________________________________________________
 <div>
- <h2>⚡ Primeiro Projetinho com acompanhamento:⚡</h2>
+ <h2>⚡ Primeiros Projetinhos com acompanhamento:⚡</h2>
  <h2>https://dsmovieleila.netlify.app</h2>
 </div>
 
