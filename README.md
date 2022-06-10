@@ -4,7 +4,7 @@
 
 - 🛠️ Trabalho atualmente como estagiária na COGNA Educação 
 - 🌱 Estudando C# .NET e PL/SQL & (HTML CSS e JS)
-- 🎓 Cursando Ciência da Computação na UNIP - 5/8
+- 🎓 Cursando Ciência da Computação na UNIP - 6/8
 
 ________________________________________________________________________________________________________________________________________________________________
 <div>
