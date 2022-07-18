@@ -5,7 +5,7 @@ ABOUT ME  </h3>
 
 - 🛠️ Job: Software Developer Intern at IBM 
 - 🌱 Studying: C# Java .NET e PL/SQL & (HTML CSS e JS)
-- 🎓 attending higher education: Ciência da Computação at UNIP - 6/8
+- 🎓 attending higher education: Computer science at UNIP - 6/8
 
 ________________________________________________________________________________________________________________________________________________________________
 <div>
