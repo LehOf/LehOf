@@ -2,19 +2,23 @@
  
 <h3 align="left"> SOBRE MIM: </h3>
 
-- 🛠️ Trabalho atualmente como estagiária na COGNA Educação 
-- 🌱 Estudando C# .NET e PL/SQL & (HTML CSS e JS)
-- 🎓 Cursando Ciência da Computação na UNIP - 6/8
+- 🛠️ Job: Software Developer Intern at IBM 
+- 🌱 Studying: C# Java .NET e PL/SQL & (HTML CSS e JS)
+- 🎓 attending higher education: Ciência da Computação at UNIP - 6/8
 
 ________________________________________________________________________________________________________________________________________________________________
 <div>
- <h2>⚡ Primeiros Projetinhos com acompanhamento:⚡</h2>
- <h2>https://dsmovieleila.netlify.app</h2>
- <h2>https://6298ef33c27a0900ac078cd4--aquamarine-cat-393711.netlify.app<h2>
- <h2>https://luxury-crostata-163256.netlify.app/<h2>
+ <h2>⚡ First projects with follow-up⚡</h2>
+ <h2>https://dsmovieleila.netlify.app - 
+movie review</h2>
+ <h2>https://6298ef33c27a0900ac078cd4--aquamarine-cat-393711.netlify.app - 
+Hair salon<h2>
+ <h2>https://luxury-crostata-163256.netlify.app/ - 
+Sales<h2>
 </div>
 
-<h3 align="left"> LINGUAGENS: </h3>
+<h3 align="left"> 
+Languages: </h3>
 <div>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>
