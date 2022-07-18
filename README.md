@@ -1,6 +1,7 @@
-### <h1 align="left"> Oiii, me chamo Leila Contel! 👋</h1>
+### <h1 align="left"> Pleasure - Leila Contel 👋</h1>
  
-<h3 align="left"> SOBRE MIM: </h3>
+<h3 align="left"> 
+ABOUT ME  </h3>
 
 - 🛠️ Job: Software Developer Intern at IBM 
 - 🌱 Studying: C# Java .NET e PL/SQL & (HTML CSS e JS)
