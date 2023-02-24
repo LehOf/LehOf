@@ -23,8 +23,8 @@ Languages: </h3>
 <div>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>
-  <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"/>
+  <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/381/381704.png"/>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/128/1199/1199128.png"/>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/128/4241/4241309.png"/>
