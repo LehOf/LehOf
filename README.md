@@ -1,21 +1,21 @@
-### <h1 align="left"> Pleasure - Leila Contel 👋</h1>
+### <h1 align="left"> Prazer - Leila Contel 👋</h1>
  
 <h3 align="left"> 
 ABOUT ME  </h3>
 
-- 🛠️ Job: Software Developer Intern at IBM 
-- 🌱 Studying: C# Java .NET e PL/SQL & (HTML CSS e JS)
-- 🎓 attending higher education: Computer science at UNIP - 6/8
+- 🛠️ Job: Data Administrator | Modelagem de Dados | MySQL at IBM 
+- 🌱 Studying: Modelagem de Dados, MySQL Server, DynamoDB, AWS, Power Designer, C#, .NET & (HTML CSS e JS)
+- 🎓 attending higher education: Computer science at UNIP - 7/8
 
 ________________________________________________________________________________________________________________________________________________________________
 <div>
- <h2>⚡ First projects with follow-up⚡</h2>
- <h2>https://dsmovieleila.netlify.app - 
-movie review</h2>
- <h2>https://6298ef33c27a0900ac078cd4--aquamarine-cat-393711.netlify.app - 
-Hair salon<h2>
- <h2>https://luxury-crostata-163256.netlify.app/ - 
-Sales<h2>
+ <h2>⚡ Projetos feitos ⚡</h2>
+ <h3>https://dsmovieleila.netlify.app - 
+movie review</h4>
+ <h4>https://6298ef33c27a0900ac078cd4--aquamarine-cat-393711.netlify.app - 
+Hair salon<h4>
+ <h4>https://luxury-crostata-163256.netlify.app/ - 
+Sales<h4>
 </div>
 
 <h3 align="left"> 
