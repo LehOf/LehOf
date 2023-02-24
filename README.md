@@ -1,6 +1,6 @@
-### <h1 align="left"> Prazer - Leila Contel 👋</h1>
+### <h1 align="center"> Prazer - Leila Contel 👋</h1>
  
-<h3 align="left"> 
+<h3 align="center"> 
 SOBRE MIM  </h3>
 
 - 🛠️ Job: Data Administrator | Modelagem de Dados | MySQL at IBM 
@@ -9,7 +9,7 @@ SOBRE MIM  </h3>
 
 ________________________________________________________________________________________________________________________________________________________________
 <div>
- <h2>⚡ Projetos feitos ⚡</h2>
+ <h2 align="center">⚡ Projetos feitos ⚡</h2>
  <h4>https://dsmovieleila.netlify.app - 
 movie review</h4>
  <h4>https://6298ef33c27a0900ac078cd4--aquamarine-cat-393711.netlify.app - 
