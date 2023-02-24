@@ -18,8 +18,7 @@ Hair salon<h4>
 Sales<h4>
 </div>
 
-<h3 align="left"> 
-Languages: </h3>
+
 <div>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>
