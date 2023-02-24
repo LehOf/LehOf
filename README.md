@@ -18,8 +18,16 @@ Hair salon<h4>
 Sales<h4>
 </div>
 
+___________________________________________________________________________________________________________________________________________________________________
 
 <div>
+    <a href"https://github.com/LehOf">
+    <img width="41%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LehOf&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+ 
+__________________________________________________________________________________________________________________________________________________________________
+
+ <div>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"/>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"/>
@@ -29,19 +37,10 @@ Sales<h4>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/128/4241/4241309.png"/>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/128/1208/1208795.png"/>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/128/6123/6123437.png"/>
+ </div>    
  
+ __________________________________________________________________________________________________________________________________________________________________
  
- </div>
-
-___________________________________________________________________________________________________________________________________________________________________
-
-<div>
-    <a href"https://github.com/LehOf">
-    <img width="41%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LehOf&layout=compact&langs_count=16&theme=dracula"/>
-</div>
- 
-__________________________________________________________________________________________________________________________________________________________________
-    
 <a target="_blank" href="https://www.linkedin.com/in/leila-contel-3b2974208/">
     <img align="left" alt="Leila Contel" width="200px" src="https://img.shields.io/static/v1?label=linkedin&message=Leila.Contel&color=red&style=social&logo=linkedin"/>
 </a>
