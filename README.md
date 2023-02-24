@@ -1,7 +1,7 @@
 ### <h1 align="left"> Prazer - Leila Contel 👋</h1>
  
 <h3 align="left"> 
-ABOUT ME  </h3>
+SOBRE MIM  </h3>
 
 - 🛠️ Job: Data Administrator | Modelagem de Dados | MySQL at IBM 
 - 🌱 Studying: Modelagem de Dados, MySQL Server, DynamoDB, AWS, Power Designer, C#, .NET & (HTML CSS e JS)
@@ -26,7 +26,11 @@ Languages: </h3>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"/>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/381/381704.png"/>
- <img width="4%"  src="https://cdn-icons-png.flaticon.com/128/1199/1199128.png"/>
+  <img width="4%"  src="https://cdn-icons-png.flaticon.com/128/1199/1199128.png"/>
+  <img width="4%"  src="https://cdn-icons-png.flaticon.com/128/4241/4241309.png"/>
+  <img width="4%"  src="https://cdn-icons-png.flaticon.com/128/1208/1208795.png"/>
+  <img width="4%"  src="https://cdn-icons-png.flaticon.com/128/6123/6123437.png"/>
+ 
  
  </div>
 
