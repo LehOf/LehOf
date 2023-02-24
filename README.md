@@ -10,7 +10,7 @@ ABOUT ME  </h3>
 ________________________________________________________________________________________________________________________________________________________________
 <div>
  <h2>⚡ Projetos feitos ⚡</h2>
- <h3>https://dsmovieleila.netlify.app - 
+ <h4>https://dsmovieleila.netlify.app - 
 movie review</h4>
  <h4>https://6298ef33c27a0900ac078cd4--aquamarine-cat-393711.netlify.app - 
 Hair salon<h4>
@@ -26,6 +26,8 @@ Languages: </h3>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png"/>
   <img width="4%"  src="https://cdn-icons-png.flaticon.com/512/381/381704.png"/>
+ <img width="4%"  src="https://cdn-icons-png.flaticon.com/128/1199/1199128.png"/>
+ 
  </div>
 
 ___________________________________________________________________________________________________________________________________________________________________
