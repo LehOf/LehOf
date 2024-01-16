@@ -5,7 +5,7 @@ SOBRE MIM  </h3>
 
 - 🛠️ Job: Data Administrator | Modelagem de Dados | MySQL at IBM 
 - 🌱 Studying: Modelagem de Dados, MySQL Server, DynamoDB, AWS, Power Designer, C#, .NET & (HTML CSS e JS)
-- 🎓 attending higher education: Computer science at UNIP - 7/8
+- 🎓 attending higher education: Computer science at UNIP 
 
 ________________________________________________________________________________________________________________________________________________________________
 <div>
