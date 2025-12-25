@@ -3,9 +3,9 @@
 <h3 align="left"> 
 SOBRE MIM  </h3>
 
-- 🛠️ Job: Data Administrator | Modelagem de Dados | MySQL at IBM 
-- 🌱 Studying: Modelagem de Dados, MySQL Server, DynamoDB, AWS, Power Designer, C#, .NET & (HTML CSS e JS)
-- 🎓 attending higher education: Computer science at UNIP 
+- 🛠️ Profissão: Analista de Suporte | Facilitador de Experiência em Tecnologia | (IBM) 
+- 🌱 Bagagem : Banco de Dados Relacional e Não Relacional, AWS, Redes e Computadores, Fundamentos de Hardware e Software, S.O, 
+- 🎓 Graduada em Ciência da Computação | 1X AWS
 
 ________________________________________________________________________________________________________________________________________________________________
 <div>
