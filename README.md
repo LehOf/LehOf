@@ -4,7 +4,7 @@
 SOBRE MIM  </h3>
 
 - 🛠️ Profissão: Analista de Suporte | Facilitador de Experiência em Tecnologia | (IBM) 
-- 🌱 Conhecimento : Banco de Dados Relacional e Não Relacional, AWS, Redes e Computadores, Fundamentos de Hardware e Software
+- 🌱 Conhecimento: Banco de Dados, AWS, Redes e Computadores, Fundamentos de Hardware e Software
 - 🎓 Bacharelada em Ciência da Computação | 1X AWS
 
 ________________________________________________________________________________________________________________________________________________________________
